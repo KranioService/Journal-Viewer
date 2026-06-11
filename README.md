@@ -19,7 +19,7 @@ The tool performs a **full journal parsing**, extracting and interpreting all av
 
 ---
 
-### Journal Creation Date Visualization
+### Journal Creation Date Visualizatio
 
 For every parsed journal, the tool displays the **creation date and time**, allowing users to immediately understand the temporal context of the recorded activity.
 
